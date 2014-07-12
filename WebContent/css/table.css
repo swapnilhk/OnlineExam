@@ -1,0 +1,14 @@
+table {
+	background-color: #ffff66;
+	margin-top: 20px;
+	float: center;
+	border: solid;
+	border-width: 1px;
+	border-color: #333399
+}
+
+td {
+	padding: 10px;
+	margin: 20px;
+	font: arial;
+}
